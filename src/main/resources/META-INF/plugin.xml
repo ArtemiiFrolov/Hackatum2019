@@ -1,0 +1,90 @@
+<idea-plugin version="2">
+    <id>com.jmg.comment</id>
+    <name>Comments</name>
+    <version>2.1</version>
+    <vendor email="hack@hack.com">HackaTUM</vendor>
+
+    <description>
+        <![CDATA[
+            Add comments from mobile and load it in JetBrains IDE.
+            Based on Indulgent plugin, thanks!
+        ]]>
+    </description>
+
+    <change-notes>
+        <![CDATA[
+            There was no changes, this a solid project.
+        ]]>
+    </change-notes>
+
+    <idea-version since-build="141.0"/>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <project-components>
+        <component>
+            <implementation-class>com.indulgent.jetbrains.plugin.code.comment.highlighter.SubscribeCommentsHighlighterComponent</implementation-class>
+        </component>
+    </project-components>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <projectService serviceImplementation="com.indulgent.jetbrains.plugin.code.comment.logging.Log"/>
+        <projectService
+                serviceInterface="com.indulgent.jetbrains.plugin.code.comment.model.comment.CommentService"
+                serviceImplementation="com.indulgent.jetbrains.plugin.code.comment.model.comment.impl.PersistentXMLCommentServiceImpl"/>
+        <projectService
+                serviceInterface="com.indulgent.jetbrains.plugin.code.comment.model.group.GroupInfoService"
+                serviceImplementation="com.indulgent.jetbrains.plugin.code.comment.model.group.impl.GroupInfoServiceImpl"/>
+        <projectService
+                serviceInterface="com.indulgent.jetbrains.plugin.code.comment.model.user.UserInfoService"
+                serviceImplementation="com.indulgent.jetbrains.plugin.code.comment.model.user.impl.UserInfoServiceImpl"/>
+        <projectService
+                serviceInterface="com.indulgent.jetbrains.plugin.code.comment.template.service.TemplateService"
+                serviceImplementation="com.indulgent.jetbrains.plugin.code.comment.template.service.PersistentProjectTemplateService"/>
+        <toolWindow
+                id="Code comment"
+                factoryClass="com.indulgent.jetbrains.plugin.code.comment.view.component.CommentToolWindowFactory"
+                anchor="bottom"
+                secondary="false"
+                icon="/icons/comments.png"/>
+        <localInspection groupName="Code comments"
+                         displayName="Show all comments"
+                         enabledByDefault="true"
+                         runForWholeFile="true"
+                         implementationClass="com.indulgent.jetbrains.plugin.code.comment.highlighter.HighlightCommentsInspection"/>
+    </extensions>
+
+    <actions>
+
+        <group id="Comments" text="Comments" description="Comments" popup="true">
+
+            <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+
+        </group>
+
+        <action id="com.indulgent.jetbrains.plugin.code.comment.view.actions.AddCommentAction"
+                class="com.indulgent.jetbrains.plugin.code.comment.view.actions.AddCommentAction"
+                text="Add comment"
+                description="Add comment to selected code"
+                icon="/general/add.png">
+            <add-to-group group-id="Comments" anchor="first"/>
+
+        </action>
+        <action id="com.indulgent.jetbrains.plugin.code.comment.view.actions.RemoveCommentsAction"
+                class="com.indulgent.jetbrains.plugin.code.comment.view.actions.RemoveCommentsAction"
+                text="Remove comments"
+                description="Remove selected comments"
+                icon="/general/remove.png">
+            <add-to-group group-id="Comments" anchor="last"/>
+        </action>
+        <action id="com.indulgent.jetbrains.plugin.code.comment.view.actions.RefreshCommentsAction"
+                class="com.indulgent.jetbrains.plugin.code.comment.view.actions.RefreshCommentsAction"
+                text="Refresh comments"
+                description="Refresh comments information"
+                icon="/actions/refresh.png">
+            <add-to-group group-id="Comments" anchor="last"/>
+        </action>
+
+    </actions>
+
+</idea-plugin>

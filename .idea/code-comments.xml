@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeComments" version="1">
+    <comments>
+      <fileComments>
+        <fileInformation>
+          <path>build.gradle</path>
+        </fileInformation>
+        <comments>
+          <comment>
+            <codeInformation>
+              <codeText>'
+
+intellij {
+    version 'IC-2019.2'
+    pluginName 'com.jmg.codecomment'
+}
+
+group 'com.jmg'
+version '2.1.1-SNAPSHOT' // Plugin version</codeText>
+              <start>205</start>
+              <end>342</end>
+              <line>12</line>
+              <column>19</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.23 19:35:00 +01:00</date>
+                <text>heheh</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+          <comment>
+            <codeInformation>
+              <codeText>HAHAHAHAHAH</codeText>
+              <start>2</start>
+              <end>5</end>
+              <line>4</line>
+              <column>3</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.23 19:35:00 +01:00</date>
+                <text>https://my.compscicenter.ru/learning/assignments/60805/</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+          <comment>
+            <codeInformation>
+              <codeText>plugins</codeText>
+              <start>65</start>
+              <end>72</end>
+              <line>6</line>
+              <column>0</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.23 20:11:52 +01:00</date>
+                <text>123</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+          <comment>
+            <codeInformation>
+              <codeText>repositories {
+    mavenCentral()
+}</codeText>
+              <start>343</start>
+              <end>378</end>
+              <line>22</line>
+              <column>0</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.23 22:25:37 +01:00</date>
+                <text>HEHEHEHEHEHEH</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+        </comments>
+      </fileComments>
+    </comments>
+  </component>
+</project>
