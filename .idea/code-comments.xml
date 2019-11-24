@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>final </codeText>
+    <start>265</start>
+    <end>271</end>
+    <line>12</line>
+    <column>16</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Che kogo</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>w.mode.file.</codeText>
     <start>471</start>
     <end>483</end>
