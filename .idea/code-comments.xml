@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>team</codeText>
+    <start>196</start>
+    <end>200</end>
+    <line>7</line>
+    <column>20</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text><script src="https://gist.github.com/friendnick/bb276dbb9e70e047627ed7d790b792a6.js"></script></text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>message</codeText>
     <start>606</start>
     <end>613</end>
