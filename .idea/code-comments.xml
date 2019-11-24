@@ -7,7 +7,40 @@
           <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
         </fileInformation>
         <comments>
-
+          <comment>
+            <codeInformation>
+              <codeText>GetRandomDistribution</codeText>
+              <start>292</start>
+              <end>313</end>
+              <line>16</line>
+              <column>20</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.24 09:48:26 +01:00</date>
+                <text>https://en.wikipedia.org/wiki/Normal_distribution</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+          <comment>
+            <codeInformation>
+              <codeText>messages</codeText>
+              <start>402</start>
+              <end>410</end>
+              <line>23</line>
+              <column>0</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.24 09:48:32 +01:00</date>
+                <text>???</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
         </comments>
       </fileComments>
     </comments>
