@@ -7,8 +7,40 @@
           <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
         </fileInformation>
         <comments>
-
-
+          <comment>
+            <codeInformation>
+              <codeText>messages</codeText>
+              <start>311</start>
+              <end>319</end>
+              <line>14</line>
+              <column>0</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.24 08:09:08 +01:00</date>
+                <text>https://en.wikipedia.org/wiki/Normal_distribution</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+          <comment>
+            <codeInformation>
+              <codeText>UIBundle</codeText>
+              <start>221</start>
+              <end>229</end>
+              <line>10</line>
+              <column>13</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.24 08:09:20 +01:00</date>
+                <text>Heh</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
         </comments>
       </fileComments>
     </comments>
