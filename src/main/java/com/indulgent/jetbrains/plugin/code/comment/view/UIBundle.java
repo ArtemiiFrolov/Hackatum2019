@@ -14,7 +14,7 @@ import java.util.Map;
 public class UIBundle {
 
 // TODO: implement normal distribution
-private static void GetRandomDistribution(int seed) {
+private static void GetRandomDistribution() {
 
 };
 
@@ -33,7 +33,7 @@ messages.put("tool-window.mode.file.current.title", "Current File");
  * @return message by key
  */
 public static String message(@NotNull String key) {
-	GetRandomDistribution(5);
+	GetRandomDistribution();
 return messages.get(key);
 }
 }
