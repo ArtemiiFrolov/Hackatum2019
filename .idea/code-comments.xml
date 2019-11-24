@@ -1,51 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CodeComments" version="1">
-    <comments>
-      <fileComments>
-        <fileInformation>
-          <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
-        </fileInformation>
+    <component name="CodeComments" version="1">
         <comments>
-
-<comment>
-<codeInformation>
-    <codeText>messages</codeText>
-    <start>511</start>
-    <end>519</end>
-    <line>16</line>
-    <column>2</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Fffgg</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>ring></codeText>
-    <start>285</start>
-    <end>290</end>
-    <line>12</line>
-    <column>36</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>jhsdk</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-          
+            <fileComments>
+                <fileInformation>
+                    <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
+                </fileInformation>
+                <comments>
+                    <comment>
+                        <codeInformation>
+                            <codeText>public class UIBundle</codeText>
+                            <start>224</start>
+                            <end>245</end>
+                            <line>10</line>
+                            <column>0</column>
+                        </codeInformation>
+                        <groupInfo />
+                        <commentHistory>
+                            <record>
+                                <date>2019.11.24 01:26:35 +01:00</date>
+                                <text>This is public class. Public means it is available for everybody. Be careful with this!</text>
+                                <userInfo />
+                            </record>
+                        </commentHistory>
+                    </comment>
+                    <comment>
+                        <codeInformation>
+                            <codeText>messages.put</codeText>
+                            <start>385</start>
+                            <end>397</end>
+                            <line>16</line>
+                            <column>8</column>
+                        </codeInformation>
+                        <groupInfo />
+                        <commentHistory>
+                            <record>
+                                <date>2019.11.24 01:27:03 +01:00</date>
+                                <text>messages.put creates a message and put it in the stack</text>
+                                <userInfo />
+                            </record>
+                        </commentHistory>
+                    </comment>
+                    <comment>
+                        <codeInformation>
+                            <codeText>public static String message(@NotNull String key)</codeText>
+                            <start>615</start>
+                            <end>664</end>
+                            <line>26</line>
+                            <column>4</column>
+                        </codeInformation>
+                        <groupInfo />
+                        <commentHistory>
+                            <record>
+                                <date>2019.11.24 01:27:38 +01:00</date>
+                                <text>To understand how it works, please look at stackoverflow.com</text>
+                                <userInfo />
+                            </record>
+                        </commentHistory>
+                    </comment>
+                </comments>
+            </fileComments>
         </comments>
-      </fileComments>
-    </comments>
-  </component>
+    </component>
 </project>
