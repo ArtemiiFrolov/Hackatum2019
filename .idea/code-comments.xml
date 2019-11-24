@@ -2,7 +2,47 @@
 <project version="4">
   <component name="CodeComments" version="1">
     <comments>
-      
+      <fileComments>
+        <fileInformation>
+          <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
+        </fileInformation>
+        <comments>
+          <comment>
+            <codeInformation>
+              <codeText>messages</codeText>
+              <start>311</start>
+              <end>319</end>
+              <line>14</line>
+              <column>0</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.24 08:14:42 +01:00</date>
+                <text>https://en.wikipedia.org/wiki/Normal_distribution</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+          <comment>
+            <codeInformation>
+              <codeText>messages</codeText>
+              <start>273</start>
+              <end>281</end>
+              <line>11</line>
+              <column>41</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.24 08:14:52 +01:00</date>
+                <text>HEH</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
+        </comments>
+      </fileComments>
     </comments>
   </component>
 </project>
