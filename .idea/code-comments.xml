@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>w.mode.file.</codeText>
+    <start>471</start>
+    <end>483</end>
+    <line>17</line>
+    <column>26</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>fawfawf</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>static</codeText>
     <start>334</start>
     <end>340</end>
