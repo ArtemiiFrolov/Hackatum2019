@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>messages</codeText>
+    <start>273</start>
+    <end>281</end>
+    <line>11</line>
+    <column>41</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>https://www.google.com/search?q=javascript+stoppropagation+preventdefault&oq=javascript+stoppropagation+&aqs=chrome.2.69i57j0l5.13870j0j4&sourceid=chrome&ie=UTF-8</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>annotations</codeText>
     <start>69</start>
     <end>80</end>
