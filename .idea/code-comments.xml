@@ -9,68 +9,51 @@
         <comments>
           <comment>
             <codeInformation>
-              <codeText>final Map&lt;String</codeText>
-              <start>264</start>
-              <end>281</end>
-              <line>12</line>
-              <column>18</column>
+              <codeText>public class UIBundle</codeText>
+              <start>224</start>
+              <end>245</end>
+              <line>10</line>
+              <column>0</column>
             </codeInformation>
             <groupInfo />
             <commentHistory>
               <record>
-                <date>2019.11.24 00:53:24 +01:00</date>
-                <text>Wow!</text>
+                <date>2019.11.24 01:26:35 +01:00</date>
+                <text>This is public class. Public means it is available for everybody. Be careful with this!</text>
                 <userInfo />
               </record>
             </commentHistory>
           </comment>
           <comment>
             <codeInformation>
-              <codeText>messages</codeText>
-              <start>332</start>
-              <end>340</end>
-              <line>15</line>
+              <codeText>messages.put</codeText>
+              <start>385</start>
+              <end>397</end>
+              <line>16</line>
               <column>8</column>
             </codeInformation>
             <groupInfo />
             <commentHistory>
               <record>
-                <date>2019.11.24 00:53:40 +01:00</date>
-                <text>Nice ;)</text>
+                <date>2019.11.24 01:27:03 +01:00</date>
+                <text>messages.put creates a message and put it in the stack</text>
                 <userInfo />
               </record>
             </commentHistory>
           </comment>
           <comment>
             <codeInformation>
-              <codeText>Get</codeText>
-              <start>529</start>
-              <end>532</end>
-              <line>21</line>
-              <column>7</column>
-            </codeInformation>
-            <groupInfo />
-            <commentHistory>
-              <record>
-                <date>2019.11.24 01:04:08 +01:00</date>
-                <text>25 or 21</text>
-                <userInfo />
-              </record>
-            </commentHistory>
-          </comment>
-          <comment>
-            <codeInformation>
-              <codeText>public</codeText>
+              <codeText>public static String message(@NotNull String key)</codeText>
               <start>615</start>
-              <end>621</end>
+              <end>664</end>
               <line>26</line>
               <column>4</column>
             </codeInformation>
             <groupInfo />
             <commentHistory>
               <record>
-                <date>2019.11.24 01:17:28 +01:00</date>
-                <text>pornhub.com</text>
+                <date>2019.11.24 01:27:38 +01:00</date>
+                <text>To understand how it works, please look at stackoverflow.com</text>
                 <userInfo />
               </record>
             </commentHistory>
