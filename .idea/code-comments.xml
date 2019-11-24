@@ -1,372 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CodeComments" version="1">
-    <comments>
-      <fileComments>
-        <fileInformation>
-          <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
-        </fileInformation>
+    <component name="CodeComments" version="1">
         <comments>
-
-<comment>
-<codeInformation>
-    <codeText>Message</codeText>
-    <start>180</start>
-    <end>187</end>
-    <line>5</line>
-    <column>3</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Change the method to another Havana</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>key</codeText>
-    <start>601</start>
-    <end>604</end>
-    <line>21</line>
-    <column>19</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Helli($&/</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>public</codeText>
-    <start>691</start>
-    <end>697</end>
-    <line>26</line>
-    <column>1</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Heisi</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>public</codeText>
-    <start>693</start>
-    <end>699</end>
-    <line>26</line>
-    <column>1</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Heisi</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>public</codeText>
-    <start>249</start>
-    <end>255</end>
-    <line>10</line>
-    <column>0</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Hi</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>jetbrains</codeText>
-    <start>140</start>
-    <end>149</end>
-    <line>-1</line>
-    <column>11</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Fff</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>jetbrains</codeText>
-    <start>112</start>
-    <end>121</end>
-    <line>-1</line>
-    <column>11</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text></text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>.title</codeText>
-    <start>490</start>
-    <end>496</end>
-    <line>17</line>
-    <column>45</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>jjj
-</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>de.file.c</codeText>
-    <start>475</start>
-    <end>484</end>
-    <line>17</line>
-    <column>30</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>adwdawd</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>8</line>
-    <column>11</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>hgjb</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>7</line>
-    <column>20</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>ugyjgbh</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>26</line>
-    <column>39</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>ajhgbds</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>26</line>
-    <column>22</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Hie!</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>23</line>
-    <column>22</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Hackatum is ....</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>2</line>
-    <column>6</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Gelllo</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>12</line>
-    <column>50</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Hellllllo!</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-
-<comment>
-<codeInformation>
-    <codeText>TEMPLATE</codeText>
-    <start>1</start>
-    <end>1</end>
-    <line>15</line>
-    <column>42</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Hi!</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
-          <comment>
-            <codeInformation>
-              <codeText>final Map&lt;String</codeText>
-              <start>264</start>
-              <end>281</end>
-              <line>12</line>
-              <column>18</column>
-            </codeInformation>
-            <groupInfo />
-            <commentHistory>
-              <record>
-                <date>2019.11.24 00:53:24 +01:00</date>
-                <text>Wow!</text>
-                <userInfo />
-              </record>
-            </commentHistory>
-          </comment>
-          <comment>
-            <codeInformation>
-              <codeText>messages</codeText>
-              <start>332</start>
-              <end>340</end>
-              <line>15</line>
-              <column>8</column>
-            </codeInformation>
-            <groupInfo />
-            <commentHistory>
-              <record>
-                <date>2019.11.24 00:53:40 +01:00</date>
-                <text>Nice ;)</text>
-                <userInfo />
-              </record>
-            </commentHistory>
-          </comment>
-          <comment>
-            <codeInformation>
-              <codeText>Get</codeText>
-              <start>529</start>
-              <end>532</end>
-              <line>21</line>
-              <column>7</column>
-            </codeInformation>
-            <groupInfo />
-            <commentHistory>
-              <record>
-                <date>2019.11.24 01:04:08 +01:00</date>
-                <text>25 or 21</text>
-                <userInfo />
-              </record>
-            </commentHistory>
-          </comment>
+            <fileComments>
+                <fileInformation>
+                    <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
+                </fileInformation>
+                <comments>
+                    <comment>
+                        <codeInformation>
+                            <codeText>public class UIBundle</codeText>
+                            <start>224</start>
+                            <end>245</end>
+                            <line>10</line>
+                            <column>0</column>
+                        </codeInformation>
+                        <groupInfo />
+                        <commentHistory>
+                            <record>
+                                <date>2019.11.24 01:26:35 +01:00</date>
+                                <text>This is public class. Public means it is available for everybody. Be careful with this!</text>
+                                <userInfo />
+                            </record>
+                        </commentHistory>
+                    </comment>
+                    <comment>
+                        <codeInformation>
+                            <codeText>messages.put</codeText>
+                            <start>385</start>
+                            <end>397</end>
+                            <line>16</line>
+                            <column>8</column>
+                        </codeInformation>
+                        <groupInfo />
+                        <commentHistory>
+                            <record>
+                                <date>2019.11.24 01:27:03 +01:00</date>
+                                <text>messages.put creates a message and put it in the stack</text>
+                                <userInfo />
+                            </record>
+                        </commentHistory>
+                    </comment>
+                    <comment>
+                        <codeInformation>
+                            <codeText>public static String message(@NotNull String key)</codeText>
+                            <start>615</start>
+                            <end>664</end>
+                            <line>26</line>
+                            <column>4</column>
+                        </codeInformation>
+                        <groupInfo />
+                        <commentHistory>
+                            <record>
+                                <date>2019.11.24 01:27:38 +01:00</date>
+                                <text>To understand how it works, please look at stackoverflow.com</text>
+                                <userInfo />
+                            </record>
+                        </commentHistory>
+                    </comment>
+                </comments>
+            </fileComments>
         </comments>
-      </fileComments>
-    </comments>
-  </component>
+    </component>
 </project>
