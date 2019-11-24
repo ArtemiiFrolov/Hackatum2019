@@ -26,23 +26,6 @@
 </commentHistory>
 </comment>
 
-<comment>
-<codeInformation>
-    <codeText>messages</codeText>
-    <start>332</start>
-    <end>340</end>
-    <line>15</line>
-    <column>2</column>
-</codeInformation>
-<groupInfo />
-<commentHistory>
-    <record>
-    <date>2019.11.24 01:26:35 +01:00</date>
-    <text>Пук</text>
-    <userInfo />
-    </record>
-</commentHistory>
-</comment>
                     <comment>
                         <codeInformation>
                             <codeText>public class UIBundle</codeText>
