@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>title</codeText>
+    <start>337</start>
+    <end>342</end>
+    <line>14</line>
+    <column>26</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Kurwa mat</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>UIBundle</codeText>
     <start>221</start>
     <end>229</end>
