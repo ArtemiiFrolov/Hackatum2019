@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>HashMap</codeText>
+    <start>306</start>
+    <end>313</end>
+    <line>12</line>
+    <column>57</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>jhb</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>messages</codeText>
     <start>291</start>
     <end>299</end>
