@@ -2,64 +2,7 @@
 <project version="4">
   <component name="CodeComments" version="1">
     <comments>
-      <fileComments>
-        <fileInformation>
-          <path>src/main/java/com/indulgent/jetbrains/plugin/code/comment/view/UIBundle.java</path>
-        </fileInformation>
-        <comments>
-          <comment>
-            <codeInformation>
-              <codeText>public</codeText>
-              <start>208</start>
-              <end>214</end>
-              <line>13</line>
-              <column>0</column>
-            </codeInformation>
-            <groupInfo />
-            <commentHistory>
-              <record>
-                <date>2019.11.24 08:32:32 +01:00</date>
-                <text>asd</text>
-                <userInfo />
-              </record>
-            </commentHistory>
-          </comment>
-          <comment>
-            <codeInformation>
-              <codeText>messages</codeText>
-              <start>311</start>
-              <end>319</end>
-              <line>17</line>
-              <column>0</column>
-            </codeInformation>
-            <groupInfo />
-            <commentHistory>
-              <record>
-                <date>2019.11.24 08:32:37 +01:00</date>
-                <text>https://en.wikipedia.org/wiki/Kotlin_(programming_language)</text>
-                <userInfo />
-              </record>
-            </commentHistory>
-          </comment>
-          <comment>
-            <codeInformation>
-              <codeText>messages</codeText>
-              <start>422</start>
-              <end>430</end>
-              <line>19</line>
-              <column>0</column>
-            </codeInformation>
-            <groupInfo />
-            <commentHistory>
-              <record>
-                <date>2019.11.24 08:33:25 +01:00</date>
-                <text>qfw</text>
-                <userInfo />
-              </record>
-            </commentHistory>
-          </comment>
-        </comments>
-      </fileComments>
+      
     </comments>
   </component>
 </project>
