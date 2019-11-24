@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>String</codeText>
+    <start>275</start>
+    <end>281</end>
+    <line>12</line>
+    <column>26</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>123</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>2016</codeText>
     <start>210</start>
     <end>214</end>
