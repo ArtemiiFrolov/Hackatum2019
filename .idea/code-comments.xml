@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>HashMap</codeText>
+    <start>112</start>
+    <end>119</end>
+    <line>1</line>
+    <column>10</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>dadawd</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>Map</codeText>
     <start>142</start>
     <end>145</end>
