@@ -12,6 +12,12 @@ import java.util.Map;
  *
  */
 public class UIBundle {
+
+// TODO: implement normal distribution
+private static void GetRandomDistribution(int seed) {
+
+};
+
 private static final Map<String, String> messages = new HashMap<>();
 
 static {
@@ -27,6 +33,7 @@ messages.put("tool-window.mode.file.current.title", "Current File");
  * @return message by key
  */
 public static String message(@NotNull String key) {
-		return messages.get(key);
-	}
+	GetRandomDistribution(5);
+return messages.get(key);
+}
 }
