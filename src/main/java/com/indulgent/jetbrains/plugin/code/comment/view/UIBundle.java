@@ -8,8 +8,8 @@ import java.util.Map;
 /**
  * Message bundle
  *
- * @author Indulgent
- *         22.05.2016.
+ * @author HackaTUM team
+ *
  */
 public class UIBundle {
 
