@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>HashMap</codeText>
+    <start>119</start>
+    <end>126</end>
+    <line>1</line>
+    <column>17</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>123</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>import</codeText>
     <start>102</start>
     <end>108</end>
