@@ -24,6 +24,23 @@
               </record>
             </commentHistory>
           </comment>
+          <comment>
+            <codeInformation>
+              <codeText>messages</codeText>
+              <start>402</start>
+              <end>410</end>
+              <line>23</line>
+              <column>0</column>
+            </codeInformation>
+            <groupInfo />
+            <commentHistory>
+              <record>
+                <date>2019.11.24 10:28:41 +01:00</date>
+                <text>asdasdq</text>
+                <userInfo />
+              </record>
+            </commentHistory>
+          </comment>
         </comments>
       </fileComments>
     </comments>
