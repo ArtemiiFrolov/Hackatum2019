@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>Code comment</codeText>
+    <start>367</start>
+    <end>379</end>
+    <line>15</line>
+    <column>37</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Puck))</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>messages</codeText>
     <start>332</start>
     <end>340</end>
