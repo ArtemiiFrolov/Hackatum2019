@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>public</codeText>
+    <start>249</start>
+    <end>255</end>
+    <line>10</line>
+    <column>0</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Hi</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>jetbrains</codeText>
     <start>140</start>
     <end>149</end>
