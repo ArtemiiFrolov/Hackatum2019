@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>annotations</codeText>
+    <start>69</start>
+    <end>80</end>
+    <line>-1</line>
+    <column>21</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>https://github.com/StylishThemes/GitHub-Dark/issues/401</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>team</codeText>
     <start>196</start>
     <end>200</end>
