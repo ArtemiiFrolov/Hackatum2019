@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>class</codeText>
+    <start>305</start>
+    <end>310</end>
+    <line>10</line>
+    <column>7</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Civic</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>HackaTUM</codeText>
     <start>220</start>
     <end>228</end>
