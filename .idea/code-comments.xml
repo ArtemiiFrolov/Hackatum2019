@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>NotNull</codeText>
+    <start>85</start>
+    <end>92</end>
+    <line>NaN</line>
+    <column>NaN</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>dawd</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>String</codeText>
     <start>613</start>
     <end>619</end>
