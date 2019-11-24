@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>static</codeText>
+    <start>334</start>
+    <end>340</end>
+    <line>12</line>
+    <column>9</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Privet Artemii</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>Code comment</codeText>
     <start>367</start>
     <end>379</end>
