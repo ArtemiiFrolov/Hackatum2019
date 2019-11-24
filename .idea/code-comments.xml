@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>Map</codeText>
+    <start>271</start>
+    <end>274</end>
+    <line>12</line>
+    <column>22</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Perevoditsya kak karta</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>HashMap</codeText>
     <start>119</start>
     <end>126</end>
