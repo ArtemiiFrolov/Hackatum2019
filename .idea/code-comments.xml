@@ -13,6 +13,24 @@
     <codeText>TEMPLATE</codeText>
     <start>1</start>
     <end>1</end>
+    <line>12</line>
+    <column>50</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Hellllllo!</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
+    <codeText>TEMPLATE</codeText>
+    <start>1</start>
+    <end>1</end>
     <line>15</line>
     <column>42</column>
 </codeInformation>
