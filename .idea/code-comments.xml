@@ -10,6 +10,24 @@
 
 <comment>
 <codeInformation>
+    <codeText>Message</codeText>
+    <start>196</start>
+    <end>203</end>
+    <line>5</line>
+    <column>3</column>
+</codeInformation>
+<groupInfo />
+<commentHistory>
+    <record>
+    <date>2019.11.24 01:26:35 +01:00</date>
+    <text>Last comment</text>
+    <userInfo />
+    </record>
+</commentHistory>
+</comment>
+
+<comment>
+<codeInformation>
     <codeText>annotations</codeText>
     <start>69</start>
     <end>80</end>
